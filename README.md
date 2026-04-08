@@ -1,8 +1,3 @@
-Here is a **clean, professional README.md** you can directly paste into your repo on **GitHub**. I wrote it in the style recruiters like when reviewing projects.
-
----
-
-```markdown
 # 💬 ChatApp
 
 A real-time chat application built to demonstrate modern web communication using WebSockets.  
@@ -26,9 +21,7 @@ Real-time chat systems are commonly used in messaging platforms and collaboratio
 # 🛠️ Tech Stack
 
 **Frontend**
-- HTML
-- CSS
-- JavaScript
+- ReactJs
 
 **Backend**
 - Java
@@ -98,7 +91,7 @@ or run the main application class from your IDE.
 
 ```
 
-ChatApp
+ChatApp-Backend
 │
 ├── src
 │   ├── main
@@ -153,27 +146,4 @@ If you like this project, please give it a ⭐ on GitHub!
 
 ```
 
----
 
-## 🔥 Quick tip to make your repo **10x better**
-
-Add these things also:
-
-1️⃣ **Project Screenshot**  
-2️⃣ **System Architecture Diagram**  
-3️⃣ **Live Demo GIF**
-
-Recruiters LOVE seeing those.
-
----
-
-If you want, I can also give you a **🔥 much more impressive README (like top GitHub projects)** with:
-
-- badges  
-- animated demo  
-- architecture diagram  
-- better formatting  
-
-It will make your repo **look like a senior developer project**.
-::contentReference[oaicite:2]{index=2}
-```
